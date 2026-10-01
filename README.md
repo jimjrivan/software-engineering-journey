@@ -1,4 +1,6 @@
-Está é uma jornada de aprofundamento em Engenharia de Software e Arquitetura de Sistemas.
+# Software Engineering Journey
+
+Esta é uma jornada de aprofundamento em Engenharia de Software e Arquitetura de Sistemas.
 
 Ao longo da minha carreira venho trabalhando com diferentes linguagens, tecnologias e contextos de desenvolvimento. Esta jornada tem como objetivo organizar e aprofundar conhecimentos relacionados a desenvolvimento de software, arquitetura, sistemas distribuídos, qualidade, testes, cloud e aplicações de IA.
 
@@ -10,16 +12,17 @@ O objetivo não é simplesmente aprender novas tecnologias, mas compreender melh
 
 - Aprofundar Engenharia de Software
 - Aprofundar Arquitetura de Sistemas
-- Evoluir em Java
+- Aprofundar conhecimentos em Java
 - Evoluir em C#/.NET
 - Evoluir em Python
 - Estudar sistemas distribuídos
 - Praticar testes automatizados
 - Praticar observabilidade
-- Estudar cloud e containers
+- Estudar Cloud e Containers
 - Explorar aplicações de IA
 - Construir projetos públicos
 - Documentar decisões técnicas
+- Documentar o processo de aprendizagem
 - Compartilhar a evolução no LinkedIn
 
 ## Projetos
